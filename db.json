@@ -14,7 +14,7 @@
       "type": "fruit",
       "price": 2,
       "description": "The fruits are round to pear-shaped and measure up to 7.6 cm in diameter; their pulp contains many small hard seeds (more abundant in wild forms than in cultivated varieties). The fruit has a yellow skin and white, yellow, or pink flesh. The musky, at times pungent, odour of the sweet pulp is not always appreciated.",
-      "image": "http://static6.depositphotos.com/1065622/557/i/450/depositphotos_5576391-Fresh-Guava-fruit-with-leaves-on-white-background.jpg"
+      "image": "https://static6.depositphotos.com/1065622/557/i/450/depositphotos_5576391-Fresh-Guava-fruit-with-leaves-on-white-background.jpg"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "type": "fruit",
       "price": 3,
       "description": "Tamarind is a sweet and sour fruit that grows in pods. Inside, they contain large seeds covered in a dark, sticky pulp. The pulp of the fruit is eaten raw and has a similar texture to dates and figs",
-      "image": "http://st.depositphotos.com/1801979/4034/i/450/depositphotos_40348101-fruit-tamarind-in-the-market.jpg"
+      "image": "https://st.depositphotos.com/1801979/4034/i/450/depositphotos_40348101-fruit-tamarind-in-the-market.jpg"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "type": "fruit",
       "price": 4,
       "description": "A small, deep colored berry which has a tender texture, a sweet delicate taste and a pleasant aroma. Peak season for raspberries is during the middle of summer, but they are available year-round in some markets as both fresh and frozen. The most common and most cultivated variety is the red Raspberry.",
-      "image": "http://st.depositphotos.com/1000141/2563/i/450/depositphotos_25634007-Ripe-raspberry-with-leaf.jpg"
+      "image": "https://st.depositphotos.com/1000141/2563/i/450/depositphotos_25634007-Ripe-raspberry-with-leaf.jpg"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "type": "fruit",
       "price": 2,
       "description": "This melon is a succulent fruit and vinelike plant of the gourd family (Cucurbitaceae), native to tropical Africa and cultivated around the world. The fruit contains vitamin A and some vitamin C and is usually eaten raw. The rind is sometimes preserved as a pickle.",
-      "image": "http://st2.depositphotos.com/3855973/6698/i/450/depositphotos_66989647-Heap-of-watermelons-for-sale.jpg"
+      "image": "https://st2.depositphotos.com/3855973/6698/i/450/depositphotos_66989647-Heap-of-watermelons-for-sale.jpg"
     },
     {
       "id": 7,
@@ -62,7 +62,7 @@
       "price": 2,
       "type": "veggie",
       "description": "Sweet potatoes are the root of a vine in the morning glory family and native to Central America or South America. Sweet potatoes are now grown in warm, moderate climates across the globe, including in Asia, North America, South America, and Africa. The root is cooked before eaten and can be baked, fried, toasted, steamed, boiled, grilled, and more.",
-      "image": "http://st2.depositphotos.com/1692343/5318/i/450/depositphotos_53188533-Organic-Raw-Sweet-Potatoes.jpg"
+      "image": "https://st2.depositphotos.com/1692343/5318/i/450/depositphotos_53188533-Organic-Raw-Sweet-Potatoes.jpg"
     },
     {
       "id": 9,
